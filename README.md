@@ -1,0 +1,2 @@
+# EASUN_GOTA_FIRMWARE
+Firmware to ESP32
